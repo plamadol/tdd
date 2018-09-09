@@ -25,3 +25,12 @@ __pycache__/
 #IDEA
 .idea/workspace.xml
 .idea/
+
+# Distribution / packaging
+.Python
+downloads/
+lib/
+lib64/
+bin/
+include/
+pip-selfcheck.json
